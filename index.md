@@ -8,6 +8,7 @@
 [网站知识库](http://mctra.top/wed/ts/cnts.htm)   
 [天气](http://mctra.top/wed/w/w.htm)   
 [米克官网公告](http://mctra.top/boke/?sort=1)   
+[米克Scratch推荐项目](http://cat.mctra.top)
 [完整版功能](http://mctra.top/Gong.htm)   
 
 
